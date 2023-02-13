@@ -1,0 +1,10 @@
+opencv_contrib_python
+pandas
+PyYAML
+requests
+matplotlib
+tqdm
+seaborn
+uvicorn
+fastapi
+python-multipart
