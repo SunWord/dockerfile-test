@@ -1,3 +1,3 @@
 FROM busybox
-CMD echo "hello world"
+CMD echo "hello world2"
 
